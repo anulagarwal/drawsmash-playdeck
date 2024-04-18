@@ -1,9 +1,9 @@
-const cacheName = "Momo Games-Draw To Smash!-0.1";
+const cacheName = "Momo Games-Draw And Smash!-0.2";
 const contentToCache = [
-    "Build/6d1cd1d46be3a0da08a323b0311e5fa7.loader.js",
-    "Build/7fd65033dd01e7f3dd3bbba1b1626551.framework.js",
-    "Build/d058b93c46a4cdcdd7259552ada77877.data",
-    "Build/9cb98cb32a1dac1b5c5312cbfd099ec3.wasm",
+    "Build/D2STelegram.loader.js",
+    "Build/899bd5daf6ab10cb61a95c13be5676ca.js",
+    "Build/4e3906e3ab0cb529940f32a034186bb4.data",
+    "Build/604ff27de67f4fda15ed914f25744731.wasm",
     "TemplateData/style.css"
 
 ];

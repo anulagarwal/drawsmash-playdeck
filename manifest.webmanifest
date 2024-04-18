@@ -1,9 +1,9 @@
 {
-    "name": "Draw To Smash!",
-    "short_name": "Draw To Smash!",
+    "name": "Draw And Smash!",
+    "short_name": "Draw And Smash!",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#CCCCCC",
+    "background_color": "#FFFFFF",
     "theme_color": "#fff",
     "description": "",
     "icons": [{
